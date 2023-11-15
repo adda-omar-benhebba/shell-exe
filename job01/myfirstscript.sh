@@ -1,2 +1,0 @@
-echo "i'm script"
-
